@@ -1,0 +1,20 @@
+{
+    "name": "My Awesome Web App",
+    "short_name": "WebApp",
+    "start_url": "https://anshpreet2442.github.io/bhawjeet/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://etus.link/heygienewatermark",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
